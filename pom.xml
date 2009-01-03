@@ -28,7 +28,7 @@
 
   <groupId>org.apache.taglibs</groupId>
   <artifactId>taglibs-parent</artifactId>
-  <version>1</version>
+  <version>1-SNAPSHOT</version>
   <name>Jakarta Taglibs Parent</name>
   <packaging>pom</packaging>
 
