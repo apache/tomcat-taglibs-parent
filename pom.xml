@@ -50,6 +50,35 @@
     <url>http://svn.apache.org/viewvc/jakarta/taglibs/proper/taglibs-parent/trunk</url>
   </scm>
 
+  <mailingLists>
+    <mailingList>
+      <name>Taglibs User List</name>
+      <subscribe>taglibs-user-subscribe@jakarta.apache.org</subscribe>
+      <unsubscribe>taglibs-user-unsubscribe@jakarta.apache.org</unsubscribe>
+      <post>taglibs-user@jakarta.apache.org</post>
+      <archive>http://mail-archives.apache.org/mod_mbox/jakarta-taglibs-user/</archive>
+      <otherArchives>
+        <otherArchive>http://markmail.org/list/org.apache.jakarta.taglibs-user/</otherArchive>
+        <otherArchive>http://www.nabble.com/Taglibs---User-f338.html</otherArchive>
+        <otherArchive>http://www.mail-archive.com/taglibs-user@jakarta.apache.org/</otherArchive>
+        <otherArchive>http://news.gmane.org/gmane.comp.jakarta.taglibs.user</otherArchive>
+      </otherArchives>
+    </mailingList>
+    <mailingList>
+      <name>Taglibs Dev List</name>
+      <subscribe>dev-subscribe@jakarta.apache.org</subscribe>
+      <unsubscribe>dev-unsubscribe@jakarta.apache.org</unsubscribe>
+      <post>dev@jakarta.apache.org</post>
+      <archive>http://mail-archives.apache.org/mod_mbox/jakarta-taglibs-dev/</archive>
+      <otherArchives>
+        <otherArchive>http://markmail.org/list/org.apache.jakarta.taglibs-dev/</otherArchive>
+        <otherArchive>http://www.nabble.com/Taglibs---Dev-f339.html</otherArchive>
+        <otherArchive>http://www.mail-archive.com/dev@jakarta.apache.org/</otherArchive>
+        <otherArchive>http://news.gmane.org/gmane.comp.jakarta.taglibs.devel</otherArchive>
+      </otherArchives>
+    </mailingList>
+  </mailingLists>
+
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
