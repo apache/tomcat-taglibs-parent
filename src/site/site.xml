@@ -32,13 +32,13 @@
       <item name="News Archives"         href="http://jakarta.apache.org/taglibs/site/news.html" />
       <item name="Wiki"                  href="http://wiki.apache.org/jakarta-taglibs/FrontPage" />
     </menu>
-    <menu name="Digging into Jakarta Taglibs">
-      <item name="CI"                    href="http://jakarta.apache.org/taglibs/site/integration.html" />
-      <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/site/issue-tracking.html" />
+    <menu name="Digging into Jakarta Taglibs" inherit="top">
       <item name="Mailing Lists"         href="http://jakarta.apache.org/taglibs/site/mail-lists.html" />
+      <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/site/issue-tracking.html" />
       <item name="Building"              href="http://jakarta.apache.org/taglibs/site/building.html" />
+      <item name="CI"                    href="http://jakarta.apache.org/taglibs/site/integration.html" />
     </menu>
-    <menu name="Get the Taglibs">
+    <menu name="All the Taglibs">
       <item name="Released Taglibs"      href="http://jakarta.apache.org/taglibs/site/taglibs.html" collapse="true">
         <item name="DateTime"            href="http://jakarta.apache.org/taglibs/doc/datetime-doc/intro.html" />
         <item name="I18N"                href="http://jakarta.apache.org/taglibs/doc/i18n-doc/intro.html" />
@@ -83,5 +83,6 @@
       <item name="Sponsorship"           href="http://www.apache.org/foundation/sponsorship.html" />
       <item name="Thanks"                href="http://www.apache.org/foundation/thanks.html" />
     </menu>
+    <menu ref="reports" inherit="bottom" />
   </body>
 </project>
