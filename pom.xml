@@ -34,6 +34,8 @@
 
   <inceptionYear>2009</inceptionYear>
 
+  <url>http://jakarta.apache.org/taglibs/</url>
+
   <ciManagement>
     <system>continuum</system>
     <url>http://vmbuild.apache.org/continuum/projectGroupSummary.action?projectGroupId=145</url>
