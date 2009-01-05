@@ -31,13 +31,12 @@
       <item name="Taglib Tutorial"       href="http://jakarta.apache.org/taglibs/site/tutorial.html" />
       <item name="News Archives"         href="http://jakarta.apache.org/taglibs/site/news.html" />
       <item name="Wiki"                  href="http://wiki.apache.org/jakarta-taglibs/FrontPage" />
-      <item name="Building"              href="http://jakarta.apache.org/taglibs/site/building.html" />
     </menu>
-    <menu name="Digging into ${project.name}">
-      <item name="${project.name}"       href="index.html" />
-      <item name="CI"                    href="integration.html" />
-      <item name="Bugs"                  href="issue-tracking.html" />
-      <item name="Mailing Lists"         href="mail-lists.html" />
+    <menu name="Digging into Jakarta Taglibs">
+      <item name="CI"                    href="http://jakarta.apache.org/taglibs/site/integration.html" />
+      <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/site/issue-tracking.html" />
+      <item name="Mailing Lists"         href="http://jakarta.apache.org/taglibs/site/mail-lists.html" />
+      <item name="Building"              href="http://jakarta.apache.org/taglibs/site/building.html" />
     </menu>
     <menu name="Get the Taglibs">
       <item name="Released Taglibs"      href="http://jakarta.apache.org/taglibs/site/taglibs.html" collapse="true">
