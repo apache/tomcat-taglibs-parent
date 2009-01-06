@@ -33,10 +33,10 @@
       <item name="Wiki"                  href="http://wiki.apache.org/jakarta-taglibs/FrontPage" />
     </menu>
     <menu name="Digging into Jakarta Taglibs" inherit="top">
-      <item name="Mailing Lists"         href="http://jakarta.apache.org/taglibs/site/mail-lists.html" />
-      <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/site/issue-tracking.html" />
+      <item name="Mailing Lists"         href="http://jakarta.apache.org/taglibs/mail-lists.html" />
+      <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/issue-tracking.html" />
       <item name="Building"              href="http://jakarta.apache.org/taglibs/site/building.html" />
-      <item name="CI"                    href="http://jakarta.apache.org/taglibs/site/integration.html" />
+      <item name="CI"                    href="http://jakarta.apache.org/taglibs/integration.html" />
     </menu>
     <menu name="All the Taglibs">
       <item name="Released Taglibs"      href="http://jakarta.apache.org/taglibs/site/taglibs.html" collapse="true">
