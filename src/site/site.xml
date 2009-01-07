@@ -40,20 +40,20 @@
     </menu>
     <menu name="All the Taglibs">
       <item name="Released Taglibs"      href="http://jakarta.apache.org/taglibs/site/taglibs.html" collapse="true">
-        <item name="DateTime"            href="http://jakarta.apache.org/taglibs/doc/datetime-doc/intro.html" />
-        <item name="I18N"                href="http://jakarta.apache.org/taglibs/doc/i18n-doc/intro.html" />
-        <item name="JNDI"                href="http://jakarta.apache.org/taglibs/doc/jndi-doc/intro.html" />
-        <item name="Log"                 href="http://jakarta.apache.org/taglibs/doc/log-doc/intro.html" />
-        <item name="Random"              href="http://jakarta.apache.org/taglibs/doc/random-doc/intro.html" />
-        <item name="Regexp"              href="http://jakarta.apache.org/taglibs/doc/regexp-doc/intro.html" />
+        <item name="DateTime"            href="http://jakarta.apache.org/taglibs/datetime/" />
+        <item name="I18N"                href="http://jakarta.apache.org/taglibs/i18n/" />
+        <item name="JNDI"                href="http://jakarta.apache.org/taglibs/jndi/" />
+        <item name="Log"                 href="http://jakarta.apache.org/taglibs/log/" />
+        <item name="Random"              href="http://jakarta.apache.org/taglibs/random/" />
+        <item name="Regexp"              href="http://jakarta.apache.org/taglibs/regexp/" />
         <item name="RDC"                 href="http://jakarta.apache.org/taglibs/doc/rdc-doc/intro.html" />
         <item name="Standard 1.0"        href="http://jakarta.apache.org/taglibs/doc/standard-1.0-doc/intro.html" />
         <item name="Standard 1.1"        href="http://jakarta.apache.org/taglibs/doc/standard-doc/intro.html" />
-        <item name="String"              href="http://jakarta.apache.org/taglibs/doc/string-doc/intro.html" />
+        <item name="String"              href="http://jakarta.apache.org/taglibs/string/" />
       </item> 
       <item name="Sandboxed Taglibs"     href="http://jakarta.apache.org/taglibs/site/sandbox.html" collapse="true">
-        <item name="Iterators"           href="http://jakarta.apache.org/taglibs/sandbox/doc/iterators-doc/intro.html" />
-        <item name="Unstandard"          href="http://jakarta.apache.org/taglibs/sandbox/doc/unstandard-doc/intro.html" />
+        <item name="Iterators"           href="http://jakarta.apache.org/taglibs/iterators/" />
+        <item name="Unstandard"          href="http://jakarta.apache.org/taglibs/unstandard/" />
       </item>
       <item name="Deprecated Taglibs"    href="http://jakarta.apache.org/taglibs/site/dormant.html" collapse="true">
         <item name="Application"         href="http://jakarta.apache.org/taglibs/doc/application-doc/intro.html"/>
