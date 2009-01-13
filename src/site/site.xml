@@ -32,7 +32,7 @@
       <item name="News Archives"         href="http://jakarta.apache.org/taglibs/site/news.html" />
       <item name="Wiki"                  href="http://wiki.apache.org/jakarta-taglibs/FrontPage" />
     </menu>
-    <menu name="Digging into Jakarta Taglibs" inherit="top">
+    <menu name="Digging into Jakarta Taglibs" inherit="bottom">
       <item name="Mailing Lists"         href="http://jakarta.apache.org/taglibs/mail-lists.html" />
       <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/issue-tracking.html" />
       <item name="Building"              href="http://jakarta.apache.org/taglibs/site/building.html" />
