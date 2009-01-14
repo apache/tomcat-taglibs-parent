@@ -46,7 +46,7 @@
         <item name="Log"                 href="http://jakarta.apache.org/taglibs/log/" />
         <item name="Random"              href="http://jakarta.apache.org/taglibs/random/" />
         <item name="Regexp"              href="http://jakarta.apache.org/taglibs/regexp/" />
-        <item name="RDC"                 href="http://jakarta.apache.org/taglibs/doc/rdc-doc/intro.html" />
+        <item name="RDC"                 href="http://jakarta.apache.org/taglibs/rdc/" />
         <item name="Standard 1.0"        href="http://jakarta.apache.org/taglibs/doc/standard-1.0-doc/intro.html" />
         <item name="Standard 1.1"        href="http://jakarta.apache.org/taglibs/doc/standard-doc/intro.html" />
         <item name="String"              href="http://jakarta.apache.org/taglibs/string/" />
