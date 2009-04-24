@@ -56,27 +56,27 @@
         <item name="Unstandard"          href="http://jakarta.apache.org/taglibs/unstandard/" />
       </item>
       <item name="Deprecated Taglibs"    href="http://jakarta.apache.org/taglibs/site/dormant.html" collapse="true">
-        <item name="Application"         href="http://jakarta.apache.org/taglibs/doc/application-doc/intro.html"/>
-        <item name="Benchmark"           href="http://jakarta.apache.org/taglibs/doc/benchmark-doc/intro.html"/>
-        <item name="BSF"                 href="http://jakarta.apache.org/taglibs/doc/bsf-doc/intro.html"/>
-        <item name="Cache"               href="http://jakarta.apache.org/taglibs/doc/cache-doc/intro.html"/>
-        <item name="Data Grid"           href="http://jakarta.apache.org/taglibs/sandbox/doc/datagrid-doc/intro.html"/>
-        <item name="DBTags"              href="http://jakarta.apache.org/taglibs/doc/dbtags-doc/intro.html"/>
-        <item name="Image"               href="http://jakarta.apache.org/taglibs/sandbox/doc/image-doc/intro.html"/>    
-        <item name="Input"               href="http://jakarta.apache.org/taglibs/doc/input-doc/intro.html"/>
-        <item name="IO"                  href="http://jakarta.apache.org/taglibs/doc/io-doc/intro.html"/>
-        <item name="JMS"                 href="http://jakarta.apache.org/taglibs/doc/jmstags-doc/intro.html"/>
-        <item name="Mailer"              href="http://jakarta.apache.org/taglibs/doc/mailer-doc/intro.html"/>
-        <item name="Mailer 2"            href="http://jakarta.apache.org/taglibs/sandbox/doc/mailer2-doc/intro.html"/>
-        <item name="Page"                href="http://jakarta.apache.org/taglibs/doc/page-doc/intro.html"/>
-        <item name="Request"             href="http://jakarta.apache.org/taglibs/doc/request-doc/intro.html"/>
-        <item name="Response"            href="http://jakarta.apache.org/taglibs/doc/response-doc/intro.html"/>
-        <item name="Scrape"              href="http://jakarta.apache.org/taglibs/doc/scrape-doc/intro.html"/>      
-        <item name="Session"             href="http://jakarta.apache.org/taglibs/doc/session-doc/intro.html"/>
-        <item name="UltraDev 4.0 Tool Extension" href="http://jakarta.apache.org/taglibs/doc/ultradev4-doc/intro.html"/>
-        <item name="Utility"             href="http://jakarta.apache.org/taglibs/doc/utility-doc/intro.html"/>
-        <item name="XSL"                 href="http://jakarta.apache.org/taglibs/doc/xsl-doc/intro.html"/>
-        <item name="XTags"               href="http://jakarta.apache.org/taglibs/doc/xtags-doc/intro.html"/>      
+        <item name="Application"         href="http://jakarta.apache.org/taglibs/doc/application-doc/"/>
+        <item name="Benchmark"           href="http://jakarta.apache.org/taglibs/doc/benchmark-doc/"/>
+        <item name="BSF"                 href="http://jakarta.apache.org/taglibs/doc/bsf-doc/"/>
+        <item name="Cache"               href="http://jakarta.apache.org/taglibs/doc/cache-doc/"/>
+        <item name="Data Grid"           href="http://jakarta.apache.org/taglibs/sandbox/doc/datagrid-doc/"/>
+        <item name="DBTags"              href="http://jakarta.apache.org/taglibs/doc/dbtags-doc/"/>
+        <item name="Image"               href="http://jakarta.apache.org/taglibs/sandbox/doc/image-doc/"/>    
+        <item name="Input"               href="http://jakarta.apache.org/taglibs/doc/input-doc/"/>
+        <item name="IO"                  href="http://jakarta.apache.org/taglibs/doc/io-doc/"/>
+        <item name="JMS"                 href="http://jakarta.apache.org/taglibs/doc/jmstags-doc/"/>
+        <item name="Mailer"              href="http://jakarta.apache.org/taglibs/doc/mailer-doc/"/>
+        <item name="Mailer 2"            href="http://jakarta.apache.org/taglibs/sandbox/doc/mailer2-doc/"/>
+        <item name="Page"                href="http://jakarta.apache.org/taglibs/doc/page-doc/"/>
+        <item name="Request"             href="http://jakarta.apache.org/taglibs/doc/request-doc/"/>
+        <item name="Response"            href="http://jakarta.apache.org/taglibs/doc/response-doc/"/>
+        <item name="Scrape"              href="http://jakarta.apache.org/taglibs/doc/scrape-doc/"/>      
+        <item name="Session"             href="http://jakarta.apache.org/taglibs/doc/session-doc/"/>
+        <item name="UltraDev 4.0 Tool Extension" href="http://jakarta.apache.org/taglibs/doc/ultradev4-doc/"/>
+        <item name="Utility"             href="http://jakarta.apache.org/taglibs/doc/utility-doc/"/>
+        <item name="XSL"                 href="http://jakarta.apache.org/taglibs/doc/xsl-doc/"/>
+        <item name="XTags"               href="http://jakarta.apache.org/taglibs/doc/xtags-doc/"/>      
       </item>
     </menu>
     <menu name="ASF">
