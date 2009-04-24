@@ -176,8 +176,10 @@
 
   <properties>
     <!-- Default configuration for compiler source and target JVM -->
+    <!--
     <maven.compile.source>1.4</maven.compile.source>
     <maven.compile.target>1.4</maven.compile.target>
+    -->
     <!-- Staging -->
     <taglibs.componentid>${project.artifactId}</taglibs.componentid>
     <taglibs.rc.version>RC1</taglibs.rc.version>
