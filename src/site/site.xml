@@ -40,11 +40,8 @@
     </menu>
     <menu name="All the Taglibs">
       <item name="Released Taglibs"      href="http://jakarta.apache.org/taglibs/site/taglibs.html" collapse="true">
-        <item name="DateTime"            href="http://jakarta.apache.org/taglibs/datetime/" />
-        <item name="I18N"                href="http://jakarta.apache.org/taglibs/i18n/" />
         <item name="JNDI"                href="http://jakarta.apache.org/taglibs/jndi/" />
         <item name="Log"                 href="http://jakarta.apache.org/taglibs/log/" />
-        <item name="Random"              href="http://jakarta.apache.org/taglibs/random/" />
         <item name="Regexp"              href="http://jakarta.apache.org/taglibs/regexp/" />
         <item name="RDC"                 href="http://jakarta.apache.org/taglibs/rdc/" />
         <item name="Standard 1.0"        href="http://jakarta.apache.org/taglibs/doc/standard-1.0-doc/intro.html" />
@@ -61,7 +58,9 @@
         <item name="BSF"                 href="http://jakarta.apache.org/taglibs/doc/bsf-doc/"/>
         <item name="Cache"               href="http://jakarta.apache.org/taglibs/doc/cache-doc/"/>
         <item name="Data Grid"           href="http://jakarta.apache.org/taglibs/sandbox/doc/datagrid-doc/"/>
+        <item name="DateTime"            href="http://jakarta.apache.org/taglibs/datetime/" />
         <item name="DBTags"              href="http://jakarta.apache.org/taglibs/doc/dbtags-doc/"/>
+        <item name="I18N"                href="http://jakarta.apache.org/taglibs/i18n/" />
         <item name="Image"               href="http://jakarta.apache.org/taglibs/sandbox/doc/image-doc/"/>    
         <item name="Input"               href="http://jakarta.apache.org/taglibs/doc/input-doc/"/>
         <item name="IO"                  href="http://jakarta.apache.org/taglibs/doc/io-doc/"/>
@@ -69,6 +68,7 @@
         <item name="Mailer"              href="http://jakarta.apache.org/taglibs/doc/mailer-doc/"/>
         <item name="Mailer 2"            href="http://jakarta.apache.org/taglibs/sandbox/doc/mailer2-doc/"/>
         <item name="Page"                href="http://jakarta.apache.org/taglibs/doc/page-doc/"/>
+        <item name="Random"              href="http://jakarta.apache.org/taglibs/random/" />
         <item name="Request"             href="http://jakarta.apache.org/taglibs/doc/request-doc/"/>
         <item name="Response"            href="http://jakarta.apache.org/taglibs/doc/response-doc/"/>
         <item name="Scrape"              href="http://jakarta.apache.org/taglibs/doc/scrape-doc/"/>      
