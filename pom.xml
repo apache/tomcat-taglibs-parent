@@ -47,9 +47,9 @@
   </issueManagement>
 
   <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/jakarta/taglibs/proper/taglibs-parent/trunk</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/jakarta/taglibs/proper/taglibs-parent/trunk</developerConnection>
-    <url>http://svn.apache.org/viewvc/jakarta/taglibs/proper/taglibs-parent/trunk</url>
+    <connection>scm:svn:http://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/trunk</connection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/trunk</developerConnection>
+    <url>http://svn.apache.org/viewvc/tomcat/taglibs/taglibs-parent/trunk</url>
   </scm>
 
   <mailingLists>
