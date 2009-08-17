@@ -29,7 +29,7 @@
   <groupId>org.apache.taglibs</groupId>
   <artifactId>taglibs-parent</artifactId>
   <version>1-SNAPSHOT</version>
-  <name>Jakarta Taglibs Parent</name>
+  <name>Apache Taglibs Parent</name>
   <packaging>pom</packaging>
 
   <inceptionYear>2009</inceptionYear>
