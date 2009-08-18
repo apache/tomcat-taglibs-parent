@@ -34,7 +34,7 @@
 
   <inceptionYear>2009</inceptionYear>
 
-  <url>http://jakarta.apache.org/taglibs/</url>
+  <url>http://tomcat.apache.org/taglibs/</url>
 
   <ciManagement>
     <system>continuum</system>
