@@ -67,10 +67,20 @@
       </otherArchives>
     </mailingList>
     <mailingList>
-      <name>Taglibs Dev List</name>
-      <subscribe>dev-subscribe@jakarta.apache.org</subscribe>
-      <unsubscribe>dev-unsubscribe@jakarta.apache.org</unsubscribe>
-      <post>dev@jakarta.apache.org</post>
+      <name>Tomcat Dev List</name>
+      <subscribe>dev-subscribe@tomcat.apache.org</subscribe>
+      <unsubscribe>dev-unsubscribe@tomcat.apache.org</unsubscribe>
+      <post>dev@tomcat.apache.org</post>
+      <archive>http://mail-archives.apache.org/mod_mbox/tomcat-dev/</archive>
+      <otherArchives>
+        <otherArchive>http://markmail.org/list/org.apache.tomcat.dev/</otherArchive>
+        <otherArchive>http://www.nabble.com/Tomcat---Dev-f341.html</otherArchive>
+        <otherArchive>http://www.mail-archive.com/dev@tomcat.apache.org/</otherArchive>
+        <otherArchive>http://news.gmane.org/gmane.comp.tomcat.devel</otherArchive>
+      </otherArchives>
+    </mailingList>
+    <mailingList>
+      <name>Old Taglibs Dev Archive</name>
       <archive>http://mail-archives.apache.org/mod_mbox/jakarta-taglibs-dev/</archive>
       <otherArchives>
         <otherArchive>http://markmail.org/list/org.apache.jakarta.taglibs-dev/</otherArchive>
