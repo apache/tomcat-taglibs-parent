@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<project name="Tomcat Taglibs">
+<project name="Apache Taglibs">
   <!-- http://jakarta.apache.org/tomcat URLs (rather than tomcat.apache.org)
        to steer clear of m2 multi-module site bugs -->
   <bannerLeft>
@@ -8,7 +8,7 @@
     <href>http://jakarta.apache.org/tomcat/</href>
   </bannerLeft>
   <bannerRight>
-    <name>Tomcat Taglibs</name>
+    <name>Apache Taglibs</name>
     <src>http://jakarta.apache.org/tomcat/taglibs/images/taglibs.gif</src>
     <href>http://jakarta.apache.org/tomcat/taglibs/</href>
   </bannerRight>
@@ -26,7 +26,7 @@
     </links>
     <!-- full links to jakarta.apache.org/taglibs exist here due to painful inability to 
          specify /taglibs/news.html etc -->
-    <menu name="Tomcat Taglibs">
+    <menu name="Apache Taglibs">
       <item name="Home"                  href="http://jakarta.apache.org/taglibs/index.html" />
       <item name="Downloads"             href="http://jakarta.apache.org/site/downloads/downloads_taglibs.html" />
       <item name="Using"                 href="http://jakarta.apache.org/taglibs/site/using.html" />
@@ -34,7 +34,7 @@
       <item name="News Archives"         href="http://jakarta.apache.org/taglibs/site/news.html" />
       <item name="Wiki"                  href="http://wiki.apache.org/jakarta-taglibs/FrontPage" />
     </menu>
-    <menu name="Digging into Tomcat Taglibs" inherit="bottom">
+    <menu name="Digging into Apache Taglibs" inherit="bottom">
       <item name="Mailing Lists"         href="http://jakarta.apache.org/taglibs/mail-lists.html" />
       <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/issue-tracking.html" />
       <item name="Building"              href="http://jakarta.apache.org/taglibs/site/building.html" />
