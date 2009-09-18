@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <project name="Apache Taglibs">
-  <!-- http://jakarta.apache.org/tomcat URLs (rather than tomcat.apache.org)
-       to steer clear of m2 multi-module site bugs -->
   <bannerLeft>
     <name>Tomcat</name>
-    <src>http://jakarta.apache.org/tomcat/images/tomcat.gif</src>
-    <href>http://jakarta.apache.org/tomcat/</href>
+    <src>http://tomcat.apache.org/images/tomcat.gif</src>
+    <href>http://tomcat.apache.org/</href>
   </bannerLeft>
   <bannerRight>
     <name>Apache Taglibs</name>
-    <src>http://jakarta.apache.org/tomcat/taglibs/images/taglibs.gif</src>
-    <href>http://jakarta.apache.org/tomcat/taglibs/</href>
+    <src>http://tomcat.apache.org/taglibs/images/taglibs.gif</src>
+    <href>http://tomcat.apache.org/taglibs/</href>
   </bannerRight>
   <publishDate format="dd MMMM yyyy" position="left" />
   <skin>
@@ -22,24 +20,30 @@
     <links>
       <item name="ApacheCon" href="http://www.apachecon.com/"/>
       <item name="Apache"  href="http://www.apache.org"/>
-      <item name="Tomcat" href="http://jakarta.apache.org/tomcat" />
+      <item name="Tomcat" href="http://tomcat.apache.org/" />
     </links>
-    <!-- full links to jakarta.apache.org/taglibs exist here due to painful inability to 
+    <!-- full links to tomcat.apache.org/taglibs exist here due to painful inability to 
          specify /taglibs/news.html etc -->
     <menu name="Apache Taglibs">
-      <item name="Home"                  href="http://jakarta.apache.org/taglibs/index.html" />
+      <item name="Home"                  href="http://tomcat.apache.org/taglibs/index.html" />
       <item name="Downloads"             href="http://jakarta.apache.org/site/downloads/downloads_taglibs.html" />
-      <item name="Using"                 href="http://jakarta.apache.org/taglibs/site/using.html" />
-      <item name="Taglib Tutorial"       href="http://jakarta.apache.org/taglibs/site/tutorial.html" />
-      <item name="News Archives"         href="http://jakarta.apache.org/taglibs/site/news.html" />
+      <item name="Using"                 href="http://tomcat.apache.org/taglibs/site/using.html" />
+      <item name="Taglib Tutorial"       href="http://tomcat.apache.org/taglibs/site/tutorial.html" />
+      <item name="News Archives"         href="http://tomcat.apache.org/taglibs/site/news.html" />
       <item name="Wiki"                  href="http://wiki.apache.org/jakarta-taglibs/FrontPage" />
     </menu>
     <menu name="Digging into Apache Taglibs" inherit="bottom">
-      <item name="Mailing Lists"         href="http://jakarta.apache.org/taglibs/mail-lists.html" />
-      <item name="Bugs"                  href="http://jakarta.apache.org/taglibs/issue-tracking.html" />
-      <item name="Building"              href="http://jakarta.apache.org/taglibs/site/building.html" />
-      <item name="CI"                    href="http://jakarta.apache.org/taglibs/integration.html" />
+      <item name="Mailing Lists"         href="http://tomcat.apache.org/taglibs/mail-lists.html" />
+      <item name="Bugs"                  href="http://tomcat.apache.org/taglibs/issue-tracking.html" />
+      <item name="Building"              href="http://tomcat.apache.org/taglibs/site/building.html" />
+      <item name="CI"                    href="http://tomcat.apache.org/taglibs/integration.html" />
     </menu>
+    <menu name="The Taglibs">
+        <item name="RDC"                 href="http://tomcat.apache.org/taglibs/rdc/" />
+        <item name="Standard"            href="http://tomcat.apache.org/taglibs/standard/" />
+        <!-- <item name="Extended"       href="http://tomcat.apache.org/taglibs/extended/" /> -->
+    </menu>
+    <!-- Keeping the old list to hand for a short while
     <menu name="All the Taglibs">
       <item name="Released Taglibs"      href="http://jakarta.apache.org/taglibs/site/taglibs.html" collapse="true">
         <item name="JNDI"                href="http://jakarta.apache.org/taglibs/jndi/" />
@@ -81,6 +85,7 @@
         <item name="XTags"               href="http://jakarta.apache.org/taglibs/doc/xtags-doc/"/>      
       </item>
     </menu>
+    -->
     <menu name="ASF">
       <item name="Sponsorship"           href="http://www.apache.org/foundation/sponsorship.html" />
       <item name="Thanks"                href="http://www.apache.org/foundation/thanks.html" />
