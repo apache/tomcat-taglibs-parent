@@ -43,49 +43,6 @@
         <item name="Standard"            href="http://tomcat.apache.org/taglibs/standard/" />
         <!-- <item name="Extended"       href="http://tomcat.apache.org/taglibs/extended/" /> -->
     </menu>
-    <!-- Keeping the old list to hand for a short while
-    <menu name="All the Taglibs">
-      <item name="Released Taglibs"      href="http://jakarta.apache.org/taglibs/site/taglibs.html" collapse="true">
-        <item name="JNDI"                href="http://jakarta.apache.org/taglibs/jndi/" />
-        <item name="Log"                 href="http://jakarta.apache.org/taglibs/log/" />
-        <item name="Regexp"              href="http://jakarta.apache.org/taglibs/regexp/" />
-        <item name="RDC"                 href="http://jakarta.apache.org/taglibs/rdc/" />
-        <item name="Standard 1.0"        href="http://jakarta.apache.org/taglibs/doc/standard-1.0-doc/intro.html" />
-        <item name="Standard 1.1"        href="http://jakarta.apache.org/taglibs/doc/standard-doc/intro.html" />
-        <item name="String"              href="http://jakarta.apache.org/taglibs/string/" />
-      </item> 
-      <item name="Sandboxed Taglibs"     href="http://jakarta.apache.org/taglibs/site/sandbox.html" collapse="true">
-        <item name="Iterators"           href="http://jakarta.apache.org/taglibs/iterators/" />
-        <item name="Unstandard"          href="http://jakarta.apache.org/taglibs/unstandard/" />
-      </item>
-      <item name="Deprecated Taglibs"    href="http://jakarta.apache.org/taglibs/site/dormant.html" collapse="true">
-        <item name="Application"         href="http://jakarta.apache.org/taglibs/doc/application-doc/"/>
-        <item name="Benchmark"           href="http://jakarta.apache.org/taglibs/doc/benchmark-doc/"/>
-        <item name="BSF"                 href="http://jakarta.apache.org/taglibs/doc/bsf-doc/"/>
-        <item name="Cache"               href="http://jakarta.apache.org/taglibs/doc/cache-doc/"/>
-        <item name="Data Grid"           href="http://jakarta.apache.org/taglibs/sandbox/doc/datagrid-doc/"/>
-        <item name="DateTime"            href="http://jakarta.apache.org/taglibs/datetime/" />
-        <item name="DBTags"              href="http://jakarta.apache.org/taglibs/doc/dbtags-doc/"/>
-        <item name="I18N"                href="http://jakarta.apache.org/taglibs/i18n/" />
-        <item name="Image"               href="http://jakarta.apache.org/taglibs/sandbox/doc/image-doc/"/>    
-        <item name="Input"               href="http://jakarta.apache.org/taglibs/doc/input-doc/"/>
-        <item name="IO"                  href="http://jakarta.apache.org/taglibs/doc/io-doc/"/>
-        <item name="JMS"                 href="http://jakarta.apache.org/taglibs/doc/jmstags-doc/"/>
-        <item name="Mailer"              href="http://jakarta.apache.org/taglibs/doc/mailer-doc/"/>
-        <item name="Mailer 2"            href="http://jakarta.apache.org/taglibs/sandbox/doc/mailer2-doc/"/>
-        <item name="Page"                href="http://jakarta.apache.org/taglibs/doc/page-doc/"/>
-        <item name="Random"              href="http://jakarta.apache.org/taglibs/random/" />
-        <item name="Request"             href="http://jakarta.apache.org/taglibs/doc/request-doc/"/>
-        <item name="Response"            href="http://jakarta.apache.org/taglibs/doc/response-doc/"/>
-        <item name="Scrape"              href="http://jakarta.apache.org/taglibs/doc/scrape-doc/"/>      
-        <item name="Session"             href="http://jakarta.apache.org/taglibs/doc/session-doc/"/>
-        <item name="UltraDev 4.0 Tool Extension" href="http://jakarta.apache.org/taglibs/doc/ultradev4-doc/"/>
-        <item name="Utility"             href="http://jakarta.apache.org/taglibs/doc/utility-doc/"/>
-        <item name="XSL"                 href="http://jakarta.apache.org/taglibs/doc/xsl-doc/"/>
-        <item name="XTags"               href="http://jakarta.apache.org/taglibs/doc/xtags-doc/"/>      
-      </item>
-    </menu>
-    -->
     <menu name="ASF">
       <item name="Sponsorship"           href="http://www.apache.org/foundation/sponsorship.html" />
       <item name="Thanks"                href="http://www.apache.org/foundation/thanks.html" />
