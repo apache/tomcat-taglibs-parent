@@ -55,9 +55,21 @@
   <mailingLists>
     <mailingList>
       <name>Taglibs User List</name>
-      <subscribe>taglibs-user-subscribe@jakarta.apache.org</subscribe>
-      <unsubscribe>taglibs-user-unsubscribe@jakarta.apache.org</unsubscribe>
-      <post>taglibs-user@jakarta.apache.org</post>
+      <subscribe>taglibs-user-subscribe@tomcat.apache.org</subscribe>
+      <unsubscribe>taglibs-user-unsubscribe@tomcat.apache.org</unsubscribe>
+      <post>taglibs-user@tomcat.apache.org</post>
+      <archive>http://mail-archives.apache.org/mod_mbox/tomcat-taglibs-user/</archive>
+      <!-- tbd - need to give the archive people time to notice and setup an archive
+      <otherArchives>
+        <otherArchive>http://markmail.org/list/org.apache.tomcat.taglibs-user/</otherArchive>
+        <otherArchive>http://www.nabble.com/Taglibs---User-f338.html</otherArchive>
+        <otherArchive>http://www.mail-archive.com/taglibs-user@jakarta.apache.org/</otherArchive>
+        <otherArchive>http://news.gmane.org/gmane.comp.tomcat.taglibs.user</otherArchive>
+      </otherArchives>
+      -->
+    </mailingList>
+    <mailingList>
+      <name>Old Taglibs User Archive</name>
       <archive>http://mail-archives.apache.org/mod_mbox/jakarta-taglibs-user/</archive>
       <otherArchives>
         <otherArchive>http://markmail.org/list/org.apache.jakarta.taglibs-user/</otherArchive>
