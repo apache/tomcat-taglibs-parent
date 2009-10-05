@@ -26,7 +26,6 @@
          specify /taglibs/news.html etc -->
     <menu name="Apache Taglibs">
       <item name="Home"                  href="http://tomcat.apache.org/taglibs/index.html" />
-      <item name="Downloads"             href="http://jakarta.apache.org/site/downloads/downloads_taglibs.html" />
       <item name="Using"                 href="http://tomcat.apache.org/taglibs/site/using.html" />
       <item name="Taglib Tutorial"       href="http://tomcat.apache.org/taglibs/site/tutorial.html" />
       <item name="News Archives"         href="http://tomcat.apache.org/taglibs/site/news.html" />
