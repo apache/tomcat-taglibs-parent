@@ -114,8 +114,7 @@
         </includes>
       </resource>
       <resource>
-        <directory>src/main/resources/META-INF</directory>
-        <targetPath>META-INF</targetPath>
+        <directory>src/main/resources</directory>
       </resource>
     </resources>
 
