@@ -25,7 +25,7 @@
 
   <groupId>org.apache.taglibs</groupId>
   <artifactId>taglibs-parent</artifactId>
-  <version>2-SNAPSHOT</version>
+  <version>2</version>
   <name>Apache Taglibs Parent</name>
   <packaging>pom</packaging>
 
@@ -52,9 +52,9 @@
   </issueManagement>
 
   <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/trunk</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/trunk</developerConnection>
-    <url>http://svn.apache.org/viewvc/tomcat/taglibs/taglibs-parent/trunk</url>
+    <connection>scm:svn:http://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/tags/taglibs-parent-2</connection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/tags/taglibs-parent-2</developerConnection>
+    <url>http://svn.apache.org/viewvc/tomcat/taglibs/taglibs-parent/tags/taglibs-parent-2</url>
   </scm>
 
   <mailingLists>
