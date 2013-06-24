@@ -41,11 +41,6 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 
-  <ciManagement>
-    <system>jenkins</system>
-    <url>https://builds.apache.org/view/S-Z/view/Tomcat/job/Taglibs-All/</url>
-  </ciManagement>
-
   <issueManagement>
     <system>bugzilla</system>
     <url>http://issues.apache.org/bugzilla/</url>
