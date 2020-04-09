@@ -55,10 +55,9 @@ def mavenBuild(jdk, cmdline) {
           maven: mvnName,
           jdk: "$jdk",
           publisherStrategy: 'EXPLICIT',
-          globalMavenSettingsConfig: settingsName,
+          //globalMavenSettingsConfig: settingsName,
           options: [junitPublisher(disabled: false)],
-          mavenOpts: mavenOpts,
-          mavenLocalRepo: localRepo) {
+          mavenOpts: mavenOpts) {
     // Some common Maven command line + provided command line
     sh "mvn -V -B -DfailIfNoTests=false -Dmaven.test.failure.ignore=true $cmdline"
   }
