@@ -11,7 +11,7 @@ pipeline {
     stage( "Parallel Stage" ) {
       parallel {
         stage( "Build / Test - JDK8" ) {
-          agent { node { label 'linux' } }
+          agent { node { label 'ubuntu' } }
           options { timeout( time: 120, unit: 'MINUTES' ) }
           steps {
             mavenBuild( "JDK 1.8 (latest)", "clean install" )
@@ -23,7 +23,7 @@ pipeline {
           }
         }
         stage( "Build / Test - JDK11" ) {
-          agent { node { label 'linux' } }
+          agent { node { label 'ubuntu' } }
           options { timeout( time: 120, unit: 'MINUTES' ) }
           steps {
             mavenBuild( "JDK 11 (latest)", "clean install" )
