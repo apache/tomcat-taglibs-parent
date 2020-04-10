@@ -11,7 +11,7 @@ pipeline {
     stage( "Parallel Stage" ) {
       parallel {
         stage( "Build / Test - JDK8" ) {
-          agent { node { label 'ubuntu' } }
+          agent { node { label 'linux' } }
           options { timeout( time: 120, unit: 'MINUTES' ) }
           steps {
             mavenBuild( "JDK 1.8 (latest)", "clean install" )
@@ -23,7 +23,7 @@ pipeline {
           }
         }
         stage( "Build / Test - JDK11" ) {
-          agent { node { label 'ubuntu' } }
+          agent { node { label 'linux' } }
           options { timeout( time: 120, unit: 'MINUTES' ) }
           steps {
             mavenBuild( "JDK 11 (latest)", "clean install" )
@@ -46,7 +46,7 @@ pipeline {
  * @return the Jenkinsfile step representing a maven build
  */
 def mavenBuild(jdk, cmdline) {
-  def mvnName = 'maven3'
+  def mvnName = 'Maven 3.6.3'
   //def localRepo = "${env.JENKINS_HOME}/${env.EXECUTOR_NUMBER}" // ".repository" //
   //def settingsName = 'oss-settings.xml'
   def mavenOpts = '-Xms2g -Xmx2g -Djava.awt.headless=true'
