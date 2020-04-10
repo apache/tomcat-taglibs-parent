@@ -14,10 +14,10 @@ pipeline {
           agent { node { label 'ubuntu' } }
           options { timeout( time: 120, unit: 'MINUTES' ) }
           steps {
-            mavenBuild( "jdk11", "clean install" )
+            mavenBuild( "JDK 1.8 (latest)", "clean install" )
             script {
               if (env.BRANCH_NAME == 'master') {
-                mavenBuild( "jdk8", "deploy" )
+                mavenBuild( "JDK 1.8 (latest)", "deploy" )
               }
             }
           }
@@ -26,7 +26,7 @@ pipeline {
           agent { node { label 'ubuntu' } }
           options { timeout( time: 120, unit: 'MINUTES' ) }
           steps {
-            mavenBuild( "jdk11", "clean install" )
+            mavenBuild( "JDK 11 (latest)", "clean install" )
           }
         }
       }
