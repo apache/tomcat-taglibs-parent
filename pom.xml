@@ -15,7 +15,8 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.apache</groupId>
@@ -47,9 +48,9 @@
   </issueManagement>
 
   <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/trunk</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/tomcat/taglibs/taglibs-parent/trunk</developerConnection>
-    <url>http://svn.apache.org/viewvc/tomcat/taglibs/taglibs-parent/trunk</url>
+    <connection>scm:git:https://github.com/apache/tomcat-taglibs-parent</connection>
+    <developerConnection>scm:git:https://github.com/apache/tomcat-taglibs-parent</developerConnection>
+    <url>https://github.com/apache/tomcat-taglibs-parent</url>
   </scm>
 
   <mailingLists>
@@ -63,19 +64,19 @@
         <otherArchive>http://www.mail-archive.com/taglibs-user@tomcat.apache.org/</otherArchive>
       </otherArchives>
     </mailingList>
-      <mailingList>
-          <name>Tomcat Dev List</name>
-          <subscribe>dev-subscribe@tomcat.apache.org</subscribe>
-          <unsubscribe>dev-unsubscribe@tomcat.apache.org</unsubscribe>
-          <post>dev@tomcat.apache.org</post>
-          <archive>http://mail-archives.apache.org/mod_mbox/tomcat-dev/</archive>
-          <otherArchives>
-              <otherArchive>http://markmail.org/list/org.apache.tomcat.dev/</otherArchive>
-              <otherArchive>http://www.nabble.com/Tomcat---Dev-f341.html</otherArchive>
-              <otherArchive>http://www.mail-archive.com/dev@tomcat.apache.org/</otherArchive>
-              <otherArchive>http://news.gmane.org/gmane.comp.tomcat.devel</otherArchive>
-          </otherArchives>
-      </mailingList>
+    <mailingList>
+      <name>Tomcat Dev List</name>
+      <subscribe>dev-subscribe@tomcat.apache.org</subscribe>
+      <unsubscribe>dev-unsubscribe@tomcat.apache.org</unsubscribe>
+      <post>dev@tomcat.apache.org</post>
+      <archive>http://mail-archives.apache.org/mod_mbox/tomcat-dev/</archive>
+      <otherArchives>
+        <otherArchive>http://markmail.org/list/org.apache.tomcat.dev/</otherArchive>
+        <otherArchive>http://www.nabble.com/Tomcat---Dev-f341.html</otherArchive>
+        <otherArchive>http://www.mail-archive.com/dev@tomcat.apache.org/</otherArchive>
+        <otherArchive>http://news.gmane.org/gmane.comp.tomcat.devel</otherArchive>
+      </otherArchives>
+    </mailingList>
     <mailingList>
       <name>Old Taglibs User Archive</name>
       <archive>http://mail-archives.apache.org/mod_mbox/jakarta-taglibs-user/</archive>
@@ -151,7 +152,7 @@
           <quiet>true</quiet>
           <links>
             <link>http://download.oracle.com/javase/1.5.0/docs/api</link>
-          </links>          
+          </links>
         </configuration>
       </plugin>
       <plugin>
@@ -170,7 +171,7 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jxr-plugin</artifactId>
         <version>3.0.0</version>
-      </plugin>      
+      </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-project-info-reports-plugin</artifactId>
@@ -180,7 +181,7 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-report-plugin</artifactId>
         <version>3.0.0-M4</version>
-      </plugin>          
+      </plugin>
     </plugins>
   </reporting>
 </project>
