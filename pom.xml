@@ -142,6 +142,13 @@
             <Bundle-DocURL>${project.url}</Bundle-DocURL>
           </instructions>
         </configuration>
+        <dependencies>
+          <dependency>
+            <groupId>biz.aQute.bnd</groupId>
+            <artifactId>biz.aQute.bndlib</artifactId>
+            <version>6.4.0</version>
+          </dependency>
+        </dependencies>
       </plugin>
     </plugins>
   </build>
